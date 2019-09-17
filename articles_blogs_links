@@ -6,3 +6,6 @@ stateful /stateless apps
 operator framework in openshift
 
 UrbanCode Deploy
+
+siamase twins string
+display PI value upto given integer
